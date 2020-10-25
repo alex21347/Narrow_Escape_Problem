@@ -3,4 +3,4 @@
 More info on the Narrow Escape Problem : https://en.wikipedia.org/wiki/Narrow_escape_problem <br/>
 for more information on the code/implementation, feel free to reach out to me at : alexfhill1@gmail.com <br/>
 <br/>
-![Narrow Escape](narrow_escape_method3.jpg)
+![Narrow Escape](narrow_escape_plot.png)
